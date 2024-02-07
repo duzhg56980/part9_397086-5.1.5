@@ -1,0 +1,6 @@
+import cn.hutool.core.thread.DelegatedExecutorService;
+public class FunctionUse3748 {
+public void funcUse() {
+DelegatedExecutorService delegatedexecutorservice = new DelegatedExecutorService();
+}
+}
